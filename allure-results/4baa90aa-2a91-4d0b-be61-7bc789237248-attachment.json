@@ -1,0 +1,1 @@
+{"name":"Request","url":"https://api.waqi.info/feed/rome/?token\u003d1a5d8f027e344fa191b88e966bdb5d4aa4853d4a","method":"GET","headers":{"Accept":"*/*"},"cookies":{"Cookie 1":"cookie one","Cookie 2":"cookie two"},"requestParameters":{"token":"1a5d8f027e344fa191b88e966bdb5d4aa4853d4a"},"queryParameters":{},"formParameters":{},"pathParameters":{},"multiParts":[]}
